@@ -1,14 +1,13 @@
-### Hi there 👋
-
-**Aakashcs/aakashcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/banner.png"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Aakash! 👋 <br>
+    🔥 23 year's old Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Java, Swift, SwiftUI, Kotlin, Python... <br>
+    :notebook: I’m currently learning Deep Learning and Continuous Integration ... 😭  <br>
+    :email:	aakash.bscs@gmail.com <br>
+    :art: Portfolio: https://aakashcs.github.io <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/aakashcs <br>
+  </samp>
+</p>
